@@ -36,4 +36,4 @@ This GitHub organization is maintained by student volunteers. It is not an offic
 
 ## License
 
-Unless otherwise specified, all content in this repository is licensed under the [MIT License](LICENSE).
+Unless otherwise specified, all content in this repository is licensed under the [LICENCE](/LICENSE)
