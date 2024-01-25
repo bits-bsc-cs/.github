@@ -1,4 +1,4 @@
-## Welcome to the students run GitHub organization for BITS Pilani BSc CS programme!
+## Welcome to the BITS Pilani BSc CS programme!
 
 ![bits_ioe_banner](https://github.com/bits-bsc-cs/.github/assets/121309701/3ddd9c19-2725-41fb-b35c-c673a7228938)
 
